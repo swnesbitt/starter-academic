@@ -14,7 +14,7 @@ organizations:
   url: https://www.illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Prof. Nesbitt leads a research group comprised of research staff, graduate students and undergraduate researchers in the Department of Atmospheric Sciences, where his research and teaching interests reside in atmospheric observations including the remote sensing of precipitation using radar and passive microwave sensors, observations and modeling of mesoscale and cloud dynamics and microphysics, land-atmosphere interaction, as well as data science and high-performance computation. He has participated in and led numerous field campaigns spanning four continents using radar, aircraft, and in situ instrumentation. He has taught courses in synoptic and mesoscale meteorology and weather forecasting, remote sensing, radar meteorology, tropical meteorology, mesoscale modeling, and geophysical data analysis and python programming.
+bio: Prof. Steve Nesbitt is a Professor of Atmospheric Sciences at the University of Illinois.
 
 # Interests to show in About widget
 interests:
@@ -71,8 +71,6 @@ email: "snesbitt@illinois.edu"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Prof. Nesbitt leads a research group comprised of research staff, graduate students and undergraduate researchers in the Department of Atmospheric Sciences, where his research and teaching interests reside in atmospheric observations including the remote sensing of precipitation using radar and passive microwave sensors, observations and modeling of mesoscale and cloud dynamics and microphysics, land-atmosphere interaction, as well as data science and high-performance computation. He has participated in and led numerous field campaigns spanning four continents using radar, aircraft, and in situ instrumentation. He has taught courses in synoptic and mesoscale meteorology and weather forecasting, remote sensing, radar meteorology, tropical meteorology, mesoscale modeling, and geophysical data analysis and python programming.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
