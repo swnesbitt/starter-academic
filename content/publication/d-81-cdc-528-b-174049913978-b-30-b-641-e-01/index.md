@@ -64,7 +64,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:51.538522Z'
+publishDate: '2020-12-20T16:30:26.677911Z'
 publication_types:
 - '2'
 abstract: The North American Monsoon Experiment (NAME) is an internationally coordinated

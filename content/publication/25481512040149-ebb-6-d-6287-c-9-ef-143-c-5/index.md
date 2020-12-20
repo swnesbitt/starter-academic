@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:58.533123Z'
+publishDate: '2020-12-20T16:30:33.685973Z'
 publication_types:
 - '2'
 abstract: The Optical Transient Detector (OTD) lightning data for the 12-month period

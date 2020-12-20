@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:44.906116Z'
+publishDate: '2020-12-20T16:30:20.055453Z'
 publication_types:
 - '2'
 abstract: Three methodologies for correcting the radar reflectivity factor (ZH) in

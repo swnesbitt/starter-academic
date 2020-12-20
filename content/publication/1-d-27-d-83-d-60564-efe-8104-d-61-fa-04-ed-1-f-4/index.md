@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:56.469712Z'
+publishDate: '2020-12-20T16:30:31.605058Z'
 publication_types:
 - '2'
 abstract: The Tropical Rainfall Measuring Mission (TRMM) satellite measurements from

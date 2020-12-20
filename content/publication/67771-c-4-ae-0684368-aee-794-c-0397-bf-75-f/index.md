@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:42.853092Z'
+publishDate: '2020-12-20T16:30:17.961978Z'
 publication_types:
 - '2'
 abstract: In this study, a 10-yr (1998-2007) climatology of observations from the

@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:49.062305Z'
+publishDate: '2020-12-20T16:30:24.201913Z'
 publication_types:
 - '2'
 abstract: Cold cloud features (CCFs) are defined by grouping six full years of Tropical

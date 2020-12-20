@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:48.245098Z'
+publishDate: '2020-12-20T16:30:23.373211Z'
 publication_types:
 - '2'
 abstract: This study examines the diurnal cycle of precipitation features in two regions

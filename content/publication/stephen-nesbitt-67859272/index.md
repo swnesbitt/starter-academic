@@ -6,7 +6,6 @@ title: 'Backward Adaptive Brightness Temperature Threshold Technique (BAB3T): A 
 subtitle: ''
 summary: ''
 authors:
-- Stephen Nesbitt
 - Maite Cancelada
 - Paola Salio
 - Daniel Vila
@@ -33,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:30.496619Z'
+publishDate: '2020-12-20T16:30:05.329403Z'
 publication_types:
 - '2'
 abstract: ''

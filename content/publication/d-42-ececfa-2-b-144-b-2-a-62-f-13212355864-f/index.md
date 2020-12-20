@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:35.454099Z'
+publishDate: '2020-12-20T16:30:10.453443Z'
 publication_types:
 - '2'
 abstract: This study investigates (i) the role of orography in precipitation along

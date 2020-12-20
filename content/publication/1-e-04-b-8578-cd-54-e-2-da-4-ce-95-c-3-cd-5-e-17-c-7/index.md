@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:43.671854Z'
+publishDate: '2020-12-20T16:30:18.795505Z'
 publication_types:
 - '1'
 abstract: Precipitation measurements from the Tropical Rainfall Measuring Mission

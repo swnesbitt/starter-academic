@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:33.805907Z'
+publishDate: '2020-12-20T16:30:08.688056Z'
 publication_types:
 - '2'
 abstract: Scattering models of precipitation-size ice particles have shown that aggregates

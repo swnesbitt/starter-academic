@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:41.211565Z'
+publishDate: '2020-12-20T16:30:16.285216Z'
 publication_types:
 - '2'
 abstract: Rainfall retrieval algorithms often assume a gamma-shaped raindrop size

@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:32.978875Z'
+publishDate: '2020-12-20T16:30:07.827872Z'
 publication_types:
 - '4'
 abstract: Mass-dimension (m-D) relationships determining bulk microphysical properties

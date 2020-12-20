@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:36.283814Z'
+publishDate: '2020-12-20T16:30:11.285333Z'
 publication_types:
 - '2'
 abstract: The eruption of Calbuco volcano on April 22-23, 2015 is the first volcanic

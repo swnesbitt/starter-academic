@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:44.080301Z'
+publishDate: '2020-12-20T16:30:19.211529Z'
 publication_types:
 - '2'
 abstract: The Canadian CloudSat/Cloud-Aerosol Lidar and Infrared Pathfinder Satellite

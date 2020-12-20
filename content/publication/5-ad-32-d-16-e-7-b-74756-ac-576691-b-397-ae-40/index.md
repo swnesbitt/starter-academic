@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:33.400515Z'
+publishDate: '2020-12-20T16:30:08.241017Z'
 publication_types:
 - '2'
 abstract: Satellite observations have revealed that some of the world's most intense

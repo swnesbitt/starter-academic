@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T16:27:57.293872Z'
+publishDate: '2020-12-20T16:30:32.438369Z'
 publication_types:
 - '2'
 abstract: Covering December 1997 through December 1998, 261 overpasses of 45 hurricanes
