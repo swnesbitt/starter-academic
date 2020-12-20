@@ -10,8 +10,8 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "Field campaign photos"
+  image: "header_fc.jpg"
 ---
 
 1. NASA TEFLUN-A (1998, Southeast Texas), Radiosonde Scientist
