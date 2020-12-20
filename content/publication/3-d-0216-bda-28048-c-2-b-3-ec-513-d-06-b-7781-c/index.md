@@ -1,0 +1,64 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Varied pathways for simulated tropical cyclone rapid intensification. Part
+  I: Precipitation and environment'
+subtitle: ''
+summary: ''
+authors:
+- Daniel S. Harnos
+- Stephen Nesbitt
+tags:
+- '"Convective processes"'
+- '"Hurricane"'
+- '"Mesoscale processes"'
+- '"Radius of maximum wind"'
+- '"Rapid intensification"'
+- '"Tropical cyclone"'
+- '"Typhoon"'
+categories: []
+date: '2016-04-01'
+lastmod: 2020-12-20T08:52:54-06:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2020-12-20T14:53:53.761966Z'
+publication_types:
+- '2'
+abstract: Two 1-km Weather Research and Forecasting model simulations of the rapid
+  intensification (RI) periods of hurricanes Ike (2008) and Earl (2010), under low
+  and high wind shear respectively, are performed to evaluate mechanisms linked to
+  the initiation and maintenance of RI. Despite similar simulated intensification
+  time series, the exhibited hydrometeor characteristics differ between the two cases
+  since Ike possesses less asymmetry and less vigorous convection than Earl. An objective
+  method to quantitatively estimate the radius of maximum wind (RMW) with respect
+  to height is introduced for quantifying the primary circulation character of each
+  storm, permitting analysis of where heating is most efficient for driving warm core
+  growth and subsequent intensification. Following eye development in each, diabatic
+  heating remains embedded within the RMW. Earl's RI onset coincides with an absolute
+  maximum in diabatic heating occurring within the RMW, while Ike possesses relatively
+  less diabatic heating inside the RMW throughout and lacks an absolute peak associated
+  with RI. The majority of diabatic heating within the RMW of both cases occurs at
+  subfreezing temperatures, indicative of the importance of clouds associated with
+  ice processes in these RI simulations. Earl's diabatic heating peak is tied to a
+  maximum in convective burst activity residing within the RMW. Earl's preference
+  for more sparse but intense convection is associated with increased sea surface
+  temperatures, surface heat fluxes, moisture convergence, and near-surface equivalent
+  potential temperature relative to the broader, weaker convective character in Ike.
+publication: '*Quarterly Journal of the Royal Meteorological Society*'
+doi: 10.1002/qj.2780
+---
