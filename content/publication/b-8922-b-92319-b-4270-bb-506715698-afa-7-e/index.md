@@ -33,7 +33,7 @@ authors:
 tags: []
 categories: []
 date: '2016-09-01'
-lastmod: 2020-12-20T08:52:53-06:00
+lastmod: 2020-12-20T10:27:37-06:00
 featured: false
 draft: false
 
@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:53.342077Z'
+publishDate: '2020-12-20T16:27:36.689859Z'
 publication_types:
 - '2'
 abstract: The Midlatitude Continental Convective Clouds Experiment (MC3E) is a field

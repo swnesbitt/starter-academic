@@ -14,7 +14,7 @@ tags:
 - '"radar"'
 categories: []
 date: '2014-08-01'
-lastmod: 2020-12-20T08:52:57-06:00
+lastmod: 2020-12-20T10:27:41-06:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:57.469308Z'
+publishDate: '2020-12-20T16:27:40.797859Z'
 publication_types:
 - '2'
 abstract: The statistical properties of tropic-subtropic precipitation are revealed

@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2008-12-01'
-lastmod: 2020-12-20T08:53:04-06:00
+lastmod: 2020-12-20T10:27:47-06:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:54:04.121297Z'
+publishDate: '2020-12-20T16:27:47.411266Z'
 publication_types:
 - '2'
 abstract: This study examines the spatial and temporal variability in the diurnal

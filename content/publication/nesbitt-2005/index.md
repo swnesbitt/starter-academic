@@ -1,24 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The front range pilot project for GPM: An instrument and concept test'
+title: Storm morphology and rainfall characteristics of trmm precipitation features
 subtitle: ''
 summary: ''
 authors:
-- S.A. Rutledge
+- S.W. Nesbitt
 - R. Cifelli
-- T. Lang
-- S. Nesbitt
-- K.S. Gage
-- C.R. Williams
-- B. Martner
-- S. Matrosov
-- V. Bringi
-- P.C. Kennedy
+- S.A. Rutledge
 tags: []
 categories: []
 date: '2005-01-01'
-lastmod: 2020-12-20T08:53:09-06:00
+lastmod: 2020-12-20T10:27:52-06:00
 featured: false
 draft: false
 
@@ -36,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:54:11.971449Z'
+publishDate: '2020-12-20T16:27:54.407550Z'
 publication_types:
 - '2'
 abstract: ''

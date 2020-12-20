@@ -19,7 +19,7 @@ tags:
 - '"Storm environments"'
 categories: []
 date: '2018-08-01'
-lastmod: 2020-12-20T08:52:50-06:00
+lastmod: 2020-12-20T10:27:33-06:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:50.032293Z'
+publishDate: '2020-12-20T16:27:33.400515Z'
 publication_types:
 - '2'
 abstract: Satellite observations have revealed that some of the world's most intense

@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2012-06-01'
-lastmod: 2020-12-20T08:52:59-06:00
+lastmod: 2020-12-20T10:27:42-06:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:59.110911Z'
+publishDate: '2020-12-20T16:27:42.445761Z'
 publication_types:
 - '2'
 abstract: This study uses an improved surge identification method to examine composites

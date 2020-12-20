@@ -21,7 +21,7 @@ tags:
 - '"Land-atmosphere interactions"'
 categories: []
 date: '2014-12-01'
-lastmod: 2020-12-20T08:52:57-06:00
+lastmod: 2020-12-20T10:27:40-06:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:57.058775Z'
+publishDate: '2020-12-20T16:27:40.390145Z'
 publication_types:
 - '2'
 abstract: Land use change for bioenergy feedstocks is likely to intensify as energy

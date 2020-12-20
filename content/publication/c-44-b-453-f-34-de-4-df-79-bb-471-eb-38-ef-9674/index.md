@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2007-02-01'
-lastmod: 2020-12-20T08:53:06-06:00
+lastmod: 2020-12-20T10:27:49-06:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:54:05.775402Z'
+publishDate: '2020-12-20T16:27:49.062305Z'
 publication_types:
 - '2'
 abstract: Cold cloud features (CCFs) are defined by grouping six full years of Tropical

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: GLOBAL PRECIPITATION MEASUREMENT COLD SEASON PRECIPITATION EXPERIMENT (GCPEX)
+title: Global Precipitation Measurement Cold Season Precipitation Experiment (GCPEX)L
   For Measurement's Sake, Let It Snow
 subtitle: ''
 summary: ''
@@ -26,7 +26,7 @@ authors:
 tags: []
 categories: []
 date: '2015-10-01'
-lastmod: 2020-12-20T08:52:55-06:00
+lastmod: 2020-12-20T10:27:39-06:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:55.413312Z'
+publishDate: '2020-12-20T16:27:38.753130Z'
 publication_types:
 - '2'
 abstract: ''

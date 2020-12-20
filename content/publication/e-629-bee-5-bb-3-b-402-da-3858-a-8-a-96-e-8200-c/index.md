@@ -15,7 +15,7 @@ tags:
 - '"Tropics"'
 categories: []
 date: '2015-01-01'
-lastmod: 2020-12-20T08:52:56-06:00
+lastmod: 2020-12-20T10:27:39-06:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:55.827837Z'
+publishDate: '2020-12-20T16:27:39.161201Z'
 publication_types:
 - '2'
 abstract: 'A Tropical Rainfall Measuring Mission (TRMM) climatology shows variability

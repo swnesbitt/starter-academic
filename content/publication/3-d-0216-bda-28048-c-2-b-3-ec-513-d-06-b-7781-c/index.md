@@ -18,7 +18,7 @@ tags:
 - '"Typhoon"'
 categories: []
 date: '2016-04-01'
-lastmod: 2020-12-20T08:52:54-06:00
+lastmod: 2020-12-20T10:27:37-06:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:53.761966Z'
+publishDate: '2020-12-20T16:27:37.102025Z'
 publication_types:
 - '2'
 abstract: Two 1-km Weather Research and Forecasting model simulations of the rapid

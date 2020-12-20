@@ -17,7 +17,7 @@ tags:
 - '"Tropical cyclones"'
 categories: []
 date: '2016-01-01'
-lastmod: 2020-12-20T08:52:55-06:00
+lastmod: 2020-12-20T10:27:38-06:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:54.586158Z'
+publishDate: '2020-12-20T16:27:37.937059Z'
 publication_types:
 - '2'
 abstract: Characteristics of over 15 000 tropical cyclone (TC) inner cores are evaluated

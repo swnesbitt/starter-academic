@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2000-01-01'
-lastmod: 2020-12-20T08:53:14-06:00
+lastmod: 2020-12-20T10:27:58-06:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:54:16.060879Z'
+publishDate: '2020-12-20T16:27:58.126647Z'
 publication_types:
 - '2'
 abstract: 'An algorithm has been developed to identify precipitation features (≥75

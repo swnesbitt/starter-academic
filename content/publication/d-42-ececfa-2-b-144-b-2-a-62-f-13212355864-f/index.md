@@ -18,7 +18,7 @@ tags:
 - '"orographic precipitation"'
 categories: []
 date: '2017-10-01'
-lastmod: 2020-12-20T08:52:52-06:00
+lastmod: 2020-12-20T10:27:35-06:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:52.105090Z'
+publishDate: '2020-12-20T16:27:35.454099Z'
 publication_types:
 - '2'
 abstract: This study investigates (i) the role of orography in precipitation along

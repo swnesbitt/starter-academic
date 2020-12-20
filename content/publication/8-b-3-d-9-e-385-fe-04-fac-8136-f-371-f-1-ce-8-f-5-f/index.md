@@ -18,7 +18,7 @@ tags:
 - '"Snowfall"'
 categories: []
 date: '2010-11-01'
-lastmod: 2020-12-20T08:53:01-06:00
+lastmod: 2020-12-20T10:27:44-06:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:54:00.805291Z'
+publishDate: '2020-12-20T16:27:44.080301Z'
 publication_types:
 - '2'
 abstract: The Canadian CloudSat/Cloud-Aerosol Lidar and Infrared Pathfinder Satellite

@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2009-08-01'
-lastmod: 2020-12-20T08:53:02-06:00
+lastmod: 2020-12-20T10:27:45-06:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:54:02.061803Z'
+publishDate: '2020-12-20T16:27:45.319937Z'
 publication_types:
 - '2'
 abstract: To investigate processes related to the interaction of topography and precipitation,

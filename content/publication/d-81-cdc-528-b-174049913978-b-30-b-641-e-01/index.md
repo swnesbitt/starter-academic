@@ -46,7 +46,7 @@ authors:
 tags: []
 categories: []
 date: '2006-01-01'
-lastmod: 2020-12-20T08:53:08-06:00
+lastmod: 2020-12-20T10:27:51-06:00
 featured: false
 draft: false
 
@@ -64,7 +64,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:54:08.279162Z'
+publishDate: '2020-12-20T16:27:51.538522Z'
 publication_types:
 - '2'
 abstract: The North American Monsoon Experiment (NAME) is an internationally coordinated

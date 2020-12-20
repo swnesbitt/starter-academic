@@ -17,7 +17,7 @@ tags:
 - '"Topography"'
 categories: []
 date: '2010-12-01'
-lastmod: 2020-12-20T08:53:00-06:00
+lastmod: 2020-12-20T10:27:44-06:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:54:00.372705Z'
+publishDate: '2020-12-20T16:27:43.671854Z'
 publication_types:
 - '1'
 abstract: Precipitation measurements from the Tropical Rainfall Measuring Mission

@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2002-01-01'
-lastmod: 2020-12-20T08:53:13-06:00
+lastmod: 2020-12-20T10:27:57-06:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:54:15.245645Z'
+publishDate: '2020-12-20T16:27:57.293872Z'
 publication_types:
 - '2'
 abstract: Covering December 1997 through December 1998, 261 overpasses of 45 hurricanes

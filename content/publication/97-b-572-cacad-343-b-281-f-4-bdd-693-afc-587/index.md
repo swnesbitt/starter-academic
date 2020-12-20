@@ -23,7 +23,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2020-12-20T08:52:58-06:00
+lastmod: 2020-12-20T10:27:41-06:00
 featured: false
 draft: false
 
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:57.882287Z'
+publishDate: '2020-12-20T16:27:41.211565Z'
 publication_types:
 - '2'
 abstract: Rainfall retrieval algorithms often assume a gamma-shaped raindrop size

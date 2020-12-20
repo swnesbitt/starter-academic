@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2011-04-01'
-lastmod: 2020-12-20T08:53:00-06:00
+lastmod: 2020-12-20T10:27:43-06:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:59.963228Z'
+publishDate: '2020-12-20T16:27:43.258907Z'
 publication_types:
 - '2'
 abstract: Microwave remote sensing of tropical cyclones undergoing rapid intensification

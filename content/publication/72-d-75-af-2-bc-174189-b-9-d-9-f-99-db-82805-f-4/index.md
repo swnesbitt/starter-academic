@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Where are the most: Intense thunderstorms on Earth?'
+title: Where are the most intense thunderstorms on Earth?
 subtitle: ''
 summary: ''
 authors:
@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2006-08-01'
-lastmod: 2020-12-20T08:53:07-06:00
+lastmod: 2020-12-20T10:27:51-06:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:54:07.443862Z'
+publishDate: '2020-12-20T16:27:50.714241Z'
 publication_types:
 - '2'
 abstract: The instruments on the Tropical Rainfall Measuring Mission (TRMM) satellite

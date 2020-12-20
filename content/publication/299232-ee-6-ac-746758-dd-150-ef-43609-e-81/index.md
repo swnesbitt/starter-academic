@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2009-09-01'
-lastmod: 2020-12-20T08:53:01-06:00
+lastmod: 2020-12-20T10:27:44-06:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:54:01.219170Z'
+publishDate: '2020-12-20T16:27:44.491268Z'
 publication_types:
 - '2'
 abstract: 'Size distributions and other geometric properties of mesoscale convective

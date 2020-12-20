@@ -16,7 +16,7 @@ tags:
 - '"South America"'
 categories: []
 date: '2013-06-01'
-lastmod: 2020-12-20T08:52:58-06:00
+lastmod: 2020-12-20T10:27:42-06:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:58.292876Z'
+publishDate: '2020-12-20T16:27:41.622308Z'
 publication_types:
 - '2'
 abstract: Isolated precipitating convection, though a minor contributor to total rainfall

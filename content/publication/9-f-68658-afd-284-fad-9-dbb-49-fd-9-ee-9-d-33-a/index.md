@@ -30,7 +30,7 @@ authors:
 tags: []
 categories: []
 date: '2008-09-01'
-lastmod: 2020-12-20T08:53:04-06:00
+lastmod: 2020-12-20T10:27:48-06:00
 featured: false
 draft: false
 
@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:54:04.533731Z'
+publishDate: '2020-12-20T16:27:47.835235Z'
 publication_types:
 - '2'
 abstract: Atmospheric scientists see a potential in the improvement of climate prediction

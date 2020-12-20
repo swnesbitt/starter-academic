@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2019-03-01'
-lastmod: 2020-12-20T08:52:49-06:00
+lastmod: 2020-12-20T10:27:32-06:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T14:53:49.170001Z'
+publishDate: '2020-12-20T16:27:32.571758Z'
 publication_types:
 - '2'
 abstract: Mass-dimension (m-D) relationships determining bulk microphysical properties
