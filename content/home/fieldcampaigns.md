@@ -34,7 +34,7 @@ header:
 1. NASA-NSF OLYMPEX (2015, Olympic Mountains, Washington), Mission scientist
 1. NSF DOW educational radar deployment to U. Illinois (2016)
 1. DOE CACTI (2018-19, Sierras de Córdoba, Argentina), science steering group
-1. NSF (RELAMPAGO)[https://relampago-cacti.org] (2018-19, Córdoba and Mendoza provinces, Argentina), Principal investigator
+1. NSF [https://relampago-cacti.org](RELAMPAGO) (2018-19, Córdoba and Mendoza provinces, Argentina), Principal investigator
 1. NASA CAMPEx (2019, Phillipines), Mission scientist
 1. DOE-NASA TRACER (2021, Houston, TX), Radar scientist
 1. NSF PERiLS (2021-2022, Southeast USA), Co-Principal Investigator
