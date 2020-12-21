@@ -14,6 +14,8 @@ header:
   image: "OutreachGroup.jpg"
 ---
 
+<img src="OutreachGroup.jpg">
+
 I believe that Diversity, Equity, and Inclusion is a key scientific ethics issue of the early 21st Century.  My research group values a committment to respect.  As we face the challenge of making geosciences more welcoming and accessible to all groups, I have undertaken the following actions to add to a more inclusive community of scientists:
 
 - Polaris Academy in Chicago (2009): Taught lectures at the Polaris Academy on the West Side of Chicago, and brought ~75 students to the Urbana Campus to receive a full day of hands-on weather lectures and tour of campus.
