@@ -67,6 +67,9 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "snesbitt@illinois.edu"
 
+user_groups:
+- Principal Investigators
+
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---

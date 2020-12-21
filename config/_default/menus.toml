@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "People"
+  url = "people"
+  weight = 15
+
+[[main]]
   name = "Publications"
   url = "#featured"
   weight = 20
@@ -26,7 +31,7 @@
 [[main]]
   name = "Instrumentation"
   url = "#instrumentation"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Diversity"
@@ -36,7 +41,7 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.

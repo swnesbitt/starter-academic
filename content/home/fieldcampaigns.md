@@ -2,17 +2,16 @@
 title: Field Campaigns
 summary: Here we describe how to add a page to your site.
 date: "2020-12-20T05:00:00Z"
+weight: 110
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
+headless: false
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: "Field campaign photos"
-  image: "header_fc.jpg"
 ---
+{{< figure library="true" src="header_fc.jpg" title="Outreach during RELAMPAGO" >}}
 
 1. NASA TEFLUN-A (1998, Southeast Texas), Radiosonde Scientist
 1. NASA CAMEX-3 (1998, Cocoa Beach, Florida), Aircraft Scientist

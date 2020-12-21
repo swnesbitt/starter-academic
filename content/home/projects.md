@@ -9,6 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
+active: false
+
 title: Projects
 subtitle: ''
 
@@ -27,8 +29,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Deep convection
+    tag: Deep convection
   - name: Other
     tag: Demo
 

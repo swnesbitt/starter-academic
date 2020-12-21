@@ -1,4 +1,5 @@
 ---
+weight: 100
 title: Diversity and Inclusion
 summary: Here we describe how to add a page to your site.
 date: "2020-12-21T05:00:00Z"
@@ -14,7 +15,7 @@ header:
   image: "OutreachGroup.jpg"
 ---
 
-<img src="OutreachGroup.jpg">
+{{< figure library="true" src="OutreachGroup.jpg" title="Outreach during RELAMPAGO" >}}
 
 I believe that Diversity, Equity, and Inclusion is a key scientific ethics issue of the early 21st Century.  My research group values a committment to respect.  As we face the challenge of making geosciences more welcoming and accessible to all groups, I have undertaken the following actions to add to a more inclusive community of scientists:
 
