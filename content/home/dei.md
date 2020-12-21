@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "RELAMPAGO Outreach Event"
-  image: "OutreachGroup.jpeg"
+  image: "OutreachGroup.jpg"
 ---
 
 I believe that Diversity, Equity, and Inclusion is a key scientific ethics issue of the early 21st Century.  My research group values a committment to respect.  As we face the challenge of making geosciences more welcoming and accessible to all groups, I have undertaken the following actions to add to a more inclusive community of scientists:
