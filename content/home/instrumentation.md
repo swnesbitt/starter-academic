@@ -22,7 +22,7 @@ This system includes
 - Radiometrics 915 MHz wind profiling radar
 - MRR-2 K-Band vertically pointing radar
 - Parsivel-2 disdrometer
-- 2 iMet Radiosonde systems
+- 2 iMet radiosonde systems
 - Meteorological Particle Spectrometer
 - Geonor weighing rain gauge
 - Surface weather station
@@ -36,9 +36,9 @@ The Illinois State Water Survey (affiliate Faculty in the department) also opera
 
 In 2020, the DOW Facility joined the Department of Atmospheric Sciences at the University of Illinois.  This facility operates
 
-- 3 Mobile X-Band Doppler radars, 2 dual-polarization, 1 rapid scan (DOW6, DOW7, DOW8)
-- 1 Deployable C-Band dual-polarization radar (COW)
-- 3 Mobile mesonet trucks
+- 3 mobile X-Band Doppler radars, 2 dual-polarization, 1 rapid scan (DOW6, DOW7, DOW8)
+- 1 deployable C-Band dual-polarization radar (COW)
+- 3 mobile mesonet trucks
 - 6 Graw sounding systems
 - PODs and PoleNet surface observing systems, with Parsivel disdrometers and cameras
 
