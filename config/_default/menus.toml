@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Publications"
+  url = "#featured"
+  weight = 50
+
+[[main]]
   name = "Posts"
   url = "#posts"
   weight = 20
@@ -22,11 +27,6 @@
   name = "Instrumentation"
   url = "#instrumentation"
   weight = 40
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 50
 
 [[main]]
   name = "Contact"
