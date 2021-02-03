@@ -76,4 +76,4 @@ highlight_name: false
 
 Prof. Nesbitt leads a research group comprised of research staff, graduate students and undergraduate researchers in the Department of Atmospheric Sciences, where his research and teaching interests reside in atmospheric observations including the remote sensing of precipitation using radar and passive microwave sensors, observations and modeling of mesoscale and cloud dynamics and microphysics, land-atmosphere interaction, as well as data science and high-performance computation. He has participated in and led numerous field campaigns spanning four continents using radar, aircraft, and in situ instrumentation. He has taught courses in synoptic and mesoscale meteorology and weather forecasting, remote sensing, radar meteorology, tropical meteorology, mesoscale modeling, and geophysical data analysis and python programming.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
