@@ -39,7 +39,12 @@
   weight = 50
 
 [[main]]
-  name = "Diversity"
+  name = "Research"
+  url = "#dei"
+  weight = 30
+
+[[main]]
+  name = "DEI"
   url = "#dei"
   weight = 30
 

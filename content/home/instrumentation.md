@@ -32,7 +32,7 @@ The Illinois State Water Survey (affiliate Faculty in the department) also opera
 - Raman lidar
 - Scanning Doppler lidar
 
-**[Doppler on Wheels (DOW) Facility](https://en.wikipedia.org/wiki/Doppler_on_Wheels)**
+**[Doppler on Wheels (DOW) Facility](http://dowfacility.atmos.illinois.edu)**
 
 In 2020, the DOW Facility joined the Department of Atmospheric Sciences at the University of Illinois.  This facility operates
 
