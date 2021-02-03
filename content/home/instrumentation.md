@@ -19,6 +19,7 @@ The Department of Atmospheric Sciences has the following platforms available for
 **[System for Characterizing and Measuring Precipitation (SCAMP)](https://atmos.illinois.edu/research/research-equipment/scamp)**
 
 This system includes
+
 - Radiometrics 915 MHz wind profiling radar
 - MRR-2 K-Band vertically pointing radar
 - Parsivel-2 disdrometer
@@ -29,6 +30,7 @@ This system includes
 - Aerosol spectrometer
 
 The Illinois State Water Survey (affiliate Faculty in the department) also operates:
+
 - Raman lidar
 - Scanning Doppler lidar
 
