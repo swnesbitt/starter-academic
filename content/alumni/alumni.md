@@ -19,7 +19,7 @@ comments: false  # Show comments?
 - Brown, Patrick, MS: Researcher at Illinois Energy Research Center
 - Choi, Lina, MS: PhD Student at University of Copenhagen
 - Duffy, George, MS: Postdoctoral fellow at NASA Jet Propulsion Laboratory
-- Reed, Kimberly, MS: Radiometrics, Inc.
+- Reed, Kimberly, MS: Instrumentation Engineer at Radiometrics, Inc.
 - Mulholland, Jake, PhD: Research Fellow, Naval Research Laboratory
 - Chase, Randy, MS, PhD: Postdoctoral fellow at the University of Oklahoma
 - Garg, Piyush, PhD: Scientist at Argonne National Laboratory.
