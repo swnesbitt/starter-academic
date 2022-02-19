@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Randy Chase"
+title: "Kaela Williams"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "randy-chase"
+- "Kaela-Williams"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student, Former NASA Graduate Fellow
+role: MS Student
 
 # Organizations/Affiliations
 organizations:
@@ -46,7 +46,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "randyjc2@illinois.edu"
+email: "kaelamw2@illinois.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -54,5 +54,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- MS Students
 ---
