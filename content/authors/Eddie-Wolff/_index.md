@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Max Grover"
+title: "Eddie Wolff"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "max-grover"
+- "Eddie-Wolff"
 
 # Is this the primary user of the site?
 superuser: false
@@ -46,7 +46,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mgrover4@illinois.edu"
+email: "ecwolff3@illinois.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
