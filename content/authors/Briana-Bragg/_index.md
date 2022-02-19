@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Xiuqi Luo"
+title: "Briana Bragg"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "xiuqi-luo"
+- "Briana-Bragg"
 
 # Is this the primary user of the site?
 superuser: false
@@ -46,7 +46,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "xiuqil2@illinois.edu"
+email: "brianab3@illinois.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
