@@ -6,7 +6,7 @@ title: Steve Nesbitt
 superuser: true
 
 # Role/position/tagline
-role: Professor of Atmospheric Sciences, Associate Department Head, Director of Graduate Studies
+role: Professor of Atmospheric Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
