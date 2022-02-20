@@ -11,7 +11,7 @@ comments: false  # Show comments?
 headless: false
 
 ---
-{{< figure library="true" src="header_fc.jpg" title="Outreach during RELAMPAGO" >}}
+{{< figure library="true" src="header_fc.jpg" title="Field campaigns over the years" >}}
 
 1. NASA TEFLUN-A (1998, Southeast Texas), Radiosonde Scientist
 1. NASA CAMEX-3 (1998, Cocoa Beach, Florida), Aircraft Scientist

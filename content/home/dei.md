@@ -1,6 +1,6 @@
 ---
 weight: 100
-title: Diversity and Inclusion
+title: Diversity, Equity, and Inclusion
 summary: Here we describe how to add a page to your site.
 date: "2020-12-21T05:00:00Z"
 
