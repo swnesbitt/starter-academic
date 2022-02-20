@@ -6,7 +6,7 @@ title: Steve Nesbitt
 superuser: true
 
 # Role/position/tagline
-role: Professor of Atmospheric Sciences
+role: Professor of Atmospheric Sciences, Associate Department Head, Director of Graduate Studies
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -57,12 +57,12 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/steve-nesbitt-b8a06a54/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B1eeU0o8ZT4%2BwwFb4ryrc3w%3D%3D
 
- Link to a PDF of your resume/CV.
- To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
- and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/cv.pdf
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "snesbitt@illinois.edu"
