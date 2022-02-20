@@ -20,8 +20,8 @@ comments: false  # Show comments?
 - Choi, Lina, MS: PhD Student at University of Copenhagen
 - Duffy, George, MS: Postdoctoral fellow at NASA Jet Propulsion Laboratory
 - Reed, Kimberly, MS: Instrumentation Engineer at Radiometrics, Inc.
-- Mulholland, Jake, PhD: Research Fellow, Naval Research Laboratory
-- Chase, Randy, MS, PhD: Postdoctoral fellow at the University of Oklahoma
+- Mulholland, Jake, PhD: Research Fellow, Naval Postgraduate School
+- Chase, Randy, MS, PhD: Postdoctoral fellow, University of Oklahoma
 - Garg, Piyush, PhD: Scientist at Argonne National Laboratory.
 - Grover, Max, MS: Scientist at Argonne National Laboratory.
 - Singh, Itinderjot, PhD: Postdoctoral fellow at Colorado State University
