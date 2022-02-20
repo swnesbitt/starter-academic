@@ -22,11 +22,14 @@ comments: false  # Show comments?
 - Reed, Kimberly, MS: Instrumentation Engineer at Radiometrics, Inc.
 - Mulholland, Jake, PhD: Research Fellow, Naval Postgraduate School
 - Chase, Randy, MS, PhD: Postdoctoral fellow, University of Oklahoma
-- Garg, Piyush, PhD: Scientist at Argonne National Laboratory.
-- Grover, Max, MS: Scientist at Argonne National Laboratory.
+- Garg, Piyush, PhD: Scientist at Argonne National Laboratory
+- Grover, Max, MS: Scientist at Argonne National Laboratory
 - Singh, Itinderjot, PhD: Postdoctoral fellow at Colorado State University
 
-Undergraduate Alumni:
+*Postdoctoral Alumni:*
+- Borque, Paloma, now Scientist at Pacific Northwest National Laboratory
+
+*Undergraduate Alumni:*
 - 2009: Akers, Roger+
 - 2011: Sulski, Katie*, Mycyk, Nicolas*
 - 2012: Ventimiglia, Thomas*, Gacek, Zaneta+
