@@ -18,13 +18,14 @@ comments: false  # Show comments?
 - Gleicher/Harnos, Kirstin, PhD: NOAA Climate Prediction Center
 - Brown, Patrick, MS: Researcher at Illinois Energy Research Center
 - Choi, Lina, MS: PhD Student at University of Copenhagen
-- Duffy, George, MS: Postdoctoral fellow at NASA Jet Propulsion Laboratory
+- Duffy, George, MS: Postdoctoral fellow at Syracuse University
 - Reed, Kimberly, MS: Instrumentation Engineer at Radiometrics, Inc.
-- Mulholland, Jake, PhD: Research Fellow, Naval Postgraduate School
+- Mulholland, Jake, PhD: Assistant Professor, University of North Dakota
 - Chase, Randy, MS, PhD: Postdoctoral fellow, University of Oklahoma
 - Garg, Piyush, PhD: Scientist at Argonne National Laboratory
 - Grover, Max, MS: Scientist at Argonne National Laboratory
 - Singh, Itinderjot, PhD: Postdoctoral fellow at Colorado State University
+- Fangyi Zhou, MS: Scientist in China
 
 *Postdoctoral Alumni:*
 - Borque, Paloma, now Scientist at Pacific Northwest National Laboratory
@@ -40,5 +41,6 @@ comments: false  # Show comments?
 - 2019: James, Scott*
 - 2020: James, Scott*, Daniel Lopez+, Xiqui Luo*
 - 2021: Lopez, Daniel+,*, Bragg, Briana (SOARS)+
+- 2022: Bragg, Briana (SOARS)+, Jason Henry*
 
 (*capstone, +undergraduate researcher)
